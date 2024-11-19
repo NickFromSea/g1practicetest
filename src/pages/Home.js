@@ -36,7 +36,7 @@ function Home() {
         <li>Questions, highly similar to actual exam tasks</li>
         <li>Immediate results</li>
        </ul>
-       <img src={familyInCar} alt="picture inside car" className="family-in-car"
+       <img src={familyInCar} alt="inside car" className="family-in-car"
        />
       </div>
       <button className="btn-start-test" onClick={handleButtonClick}>Start Test</button>
