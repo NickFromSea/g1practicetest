@@ -1,0 +1,20 @@
+.aboutUsPic{
+    width: 30%;
+    margin: 25px;
+    margin-right: 50px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px black;
+    float: left;
+}
+@media all and (max-width:375px) {
+
+    .aboutUsPic {
+        width: 90%;
+        margin: 15px;
+    }
+
+    .container_aboutUs {
+        width: 95%;
+    }
+}
