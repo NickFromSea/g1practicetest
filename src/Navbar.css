@@ -1,10 +1,7 @@
-.container-navbar{
-    width: 100%;
-    
-}
 .navbar {
     background-color: #333;
     padding: 5px;
+    width: 100%;
 }
 
 .navbar ul {
